@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  margin: 1.5rem;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h2 {
+  align-self: center;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img {
+  width: 8rem;
+  padding: .5rem 1rem .6rem 2rem;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+hgroup {
+  width: 16rem;
+}
+
+p {
+  width: 24rem;
+}
+
+a {
+  width: 8rem;
+
+}

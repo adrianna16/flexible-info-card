@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: Open Sans, sans-serif;
   line-height: 1.5;
   margin: 1.5rem;
 }
@@ -12,7 +13,7 @@ h2 {
   align-self: center;
 }
 
-section {
+section, body {
   display: flex;
   flex-direction: column;
   justify-content: center;

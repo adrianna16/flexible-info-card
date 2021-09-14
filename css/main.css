@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  font-family: Open Sans, sans-serif;
   line-height: 1.5;
   margin: 1.5rem;
 }
@@ -17,6 +16,10 @@ section, body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+body {
+  margin: 0;
 }
 
 img {
@@ -40,5 +43,10 @@ p {
 
 a {
   width: 8rem;
-
+  color: #ccc;
+  background-color: #444;
+  padding: .5rem;
+  margin: 1rem;
+  text-align: center;
+  text-decoration: none;
 }

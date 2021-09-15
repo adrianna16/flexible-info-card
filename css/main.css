@@ -2,6 +2,8 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   margin: 1.5rem;
+  background-color: #ccc;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
